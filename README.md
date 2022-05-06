@@ -1,2 +1,2 @@
 # LHL
-files for Lighthouse Lab lectures
+Lecture files for [Lighthouse Labs](http://lighthouselabs.ca).
