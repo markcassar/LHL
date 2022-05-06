@@ -1,0 +1,3 @@
+[submodule "cinch"]
+	path = cinch
+	url = ../cinch.git
